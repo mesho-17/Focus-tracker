@@ -21,7 +21,7 @@ Open a text file named "focus.txt" in the same directory as the Python program. 
 
 Run the program by executing the following command in the terminal or command prompt:
 
-# COMMAND: python filename.py
+`python filename.py`
 
 Replace filename.py with the actual name of the Python file.
 
