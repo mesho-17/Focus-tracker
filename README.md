@@ -1,10 +1,10 @@
 # Focus-tracker
 
-TRACKING YOUR FOCUS WITH PYTHON
+# TRACKING YOUR FOCUS WITH PYTHON
 
 This Python program allows you to track and visualize your focus time. It logs the timestamps of your focus sessions and provides insights into your total focus time.
 
-PREREQUISITES
+# PREREQUISITES
 
 To run this program, make sure you have the following installed:
 
@@ -15,17 +15,17 @@ time module
 pathlib module
 plotly library
 
-HOW TO USE
+# HOW TO USE
 
 Open a text file named "focus.txt" in the same directory as the Python program. This file will be used to store the timestamps of your focus sessions.
 
 Run the program by executing the following command in the terminal or command prompt:
 
-COMMAND: python filename.py
+# COMMAND: python filename.py
 
 Replace filename.py with the actual name of the Python file.
 
-####The program has two main parts:
+# ####The program has two main parts:
 
 Tracking Focus Time: When prompted, press the Enter key to start tracking your focus time. To stop tracking, press Enter again. The program will calculate the duration of your focus session and display the tracked time.
 
@@ -35,7 +35,7 @@ The visualization will be displayed on the screen, showing the average focus tim
 
 Optionally, you can uncomment the code related to the Streamlit library and run the program with Streamlit to create a dashboard app for tracking and visualizing your focus time. This will provide a more interactive and user-friendly experience.
 
-HOW IT WORKS
+# HOW IT WORKS
 
 The program uses a text file "focus.txt" to store the timestamps of the beginning and ending of each focus session.
 
